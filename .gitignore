@@ -1,0 +1,6 @@
+bin/
+obj/
+*.user
+.superpowers/
+dist/
+private/
