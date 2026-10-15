@@ -2,7 +2,7 @@
 
 A mod for [Streets of Rogue](https://store.steampowered.com/app/512900/Streets_of_Rogue/) that adds a new playable character, the **Railgunner**.
 
-[![Watch the Railgunner in action](https://img.youtube.com/vi/mM0oTDAWlt4/hqdefault.jpg)](https://www.youtube.com/watch?v=mM0oTDAWlt4)
+[![The Railgunner lining up a row of targets](docs/images/railgunner.png)](https://www.youtube.com/watch?v=mM0oTDAWlt4)
 
 ▶ **[Watch the Railgunner in action on YouTube](https://www.youtube.com/watch?v=mM0oTDAWlt4)**
 
