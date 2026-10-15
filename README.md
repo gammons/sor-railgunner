@@ -2,6 +2,10 @@
 
 A mod for [Streets of Rogue](https://store.steampowered.com/app/512900/Streets_of_Rogue/) that adds a new playable character, the **Railgunner**.
 
+[![Watch the Railgunner in action](https://img.youtube.com/vi/mM0oTDAWlt4/hqdefault.jpg)](https://www.youtube.com/watch?v=mM0oTDAWlt4)
+
+▶ **[Watch the Railgunner in action on YouTube](https://www.youtube.com/watch?v=mM0oTDAWlt4)**
+
 ## What it is
 
 The Railgunner does one thing, and he does it very loudly: a single charged **railshot** that kills everything in a straight line and cuts through walls on the way. Between shots he is a bit weak, so you have to plan around the charge.
